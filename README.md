@@ -1,4 +1,4 @@
-# Beauty & Skincare Chat Assistant — Backend
+# Beauty & Skincare Chat Assistant 
 
 A NestJS backend that powers a domain-specific chatbot. It receives a user's
 skincare question from the React frontend, sends it to OpenAI (gpt-4o-mini)
